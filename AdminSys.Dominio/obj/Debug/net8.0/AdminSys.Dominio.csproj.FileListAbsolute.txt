@@ -1,0 +1,14 @@
+C:\admin_sis\AdminSys\AdminSys.Dominio\bin\Debug\net8.0\AdminSys.Dominio.deps.json
+C:\admin_sis\AdminSys\AdminSys.Dominio\bin\Debug\net8.0\AdminSys.Dominio.runtimeconfig.json
+C:\admin_sis\AdminSys\AdminSys.Dominio\bin\Debug\net8.0\AdminSys.Dominio.dll
+C:\admin_sis\AdminSys\AdminSys.Dominio\bin\Debug\net8.0\AdminSys.Dominio.pdb
+C:\admin_sis\AdminSys\AdminSys.Dominio\obj\Debug\net8.0\AdminSys.Dominio.csproj.AssemblyReference.cache
+C:\admin_sis\AdminSys\AdminSys.Dominio\obj\Debug\net8.0\AdminSys.Dominio.GeneratedMSBuildEditorConfig.editorconfig
+C:\admin_sis\AdminSys\AdminSys.Dominio\obj\Debug\net8.0\AdminSys.Dominio.AssemblyInfoInputs.cache
+C:\admin_sis\AdminSys\AdminSys.Dominio\obj\Debug\net8.0\AdminSys.Dominio.AssemblyInfo.cs
+C:\admin_sis\AdminSys\AdminSys.Dominio\obj\Debug\net8.0\AdminSys.Dominio.csproj.CoreCompileInputs.cache
+C:\admin_sis\AdminSys\AdminSys.Dominio\obj\Debug\net8.0\AdminSys.Dominio.dll
+C:\admin_sis\AdminSys\AdminSys.Dominio\obj\Debug\net8.0\refint\AdminSys.Dominio.dll
+C:\admin_sis\AdminSys\AdminSys.Dominio\obj\Debug\net8.0\AdminSys.Dominio.pdb
+C:\admin_sis\AdminSys\AdminSys.Dominio\obj\Debug\net8.0\AdminSys.Dominio.genruntimeconfig.cache
+C:\admin_sis\AdminSys\AdminSys.Dominio\obj\Debug\net8.0\ref\AdminSys.Dominio.dll

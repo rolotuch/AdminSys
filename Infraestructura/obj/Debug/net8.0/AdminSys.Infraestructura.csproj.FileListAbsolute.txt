@@ -1,0 +1,17 @@
+C:\admin_sis\AdminSys\Infraestructura\bin\Debug\net8.0\AdminSys.Infraestructura.deps.json
+C:\admin_sis\AdminSys\Infraestructura\bin\Debug\net8.0\AdminSys.Infraestructura.dll
+C:\admin_sis\AdminSys\Infraestructura\bin\Debug\net8.0\AdminSys.Infraestructura.pdb
+C:\admin_sis\AdminSys\Infraestructura\bin\Debug\net8.0\AdminSys.Dominio.dll
+C:\admin_sis\AdminSys\Infraestructura\bin\Debug\net8.0\AdminSys.Utilidades.dll
+C:\admin_sis\AdminSys\Infraestructura\bin\Debug\net8.0\AdminSys.Dominio.pdb
+C:\admin_sis\AdminSys\Infraestructura\bin\Debug\net8.0\AdminSys.Utilidades.pdb
+C:\admin_sis\AdminSys\Infraestructura\obj\Debug\net8.0\AdminSys.Infraestructura.csproj.AssemblyReference.cache
+C:\admin_sis\AdminSys\Infraestructura\obj\Debug\net8.0\AdminSys.Infraestructura.GeneratedMSBuildEditorConfig.editorconfig
+C:\admin_sis\AdminSys\Infraestructura\obj\Debug\net8.0\AdminSys.Infraestructura.AssemblyInfoInputs.cache
+C:\admin_sis\AdminSys\Infraestructura\obj\Debug\net8.0\AdminSys.Infraestructura.AssemblyInfo.cs
+C:\admin_sis\AdminSys\Infraestructura\obj\Debug\net8.0\AdminSys.Infraestructura.csproj.CoreCompileInputs.cache
+C:\admin_sis\AdminSys\Infraestructura\obj\Debug\net8.0\AdminSys.Infraestructura.csproj.CopyComplete
+C:\admin_sis\AdminSys\Infraestructura\obj\Debug\net8.0\AdminSys.Infraestructura.dll
+C:\admin_sis\AdminSys\Infraestructura\obj\Debug\net8.0\refint\AdminSys.Infraestructura.dll
+C:\admin_sis\AdminSys\Infraestructura\obj\Debug\net8.0\AdminSys.Infraestructura.pdb
+C:\admin_sis\AdminSys\Infraestructura\obj\Debug\net8.0\ref\AdminSys.Infraestructura.dll

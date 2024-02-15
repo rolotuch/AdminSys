@@ -1,0 +1,13 @@
+C:\admin_sis\AdminSys\AdminSys.Utilidades\bin\Debug\net8.0\AdminSys.Utilidades.deps.json
+C:\admin_sis\AdminSys\AdminSys.Utilidades\bin\Debug\net8.0\AdminSys.Utilidades.dll
+C:\admin_sis\AdminSys\AdminSys.Utilidades\bin\Debug\net8.0\AdminSys.Utilidades.pdb
+C:\admin_sis\AdminSys\AdminSys.Utilidades\obj\Debug\net8.0\AdminSys.Utilidades.Properties.Resources.resources
+C:\admin_sis\AdminSys\AdminSys.Utilidades\obj\Debug\net8.0\AdminSys.Utilidades.csproj.GenerateResource.cache
+C:\admin_sis\AdminSys\AdminSys.Utilidades\obj\Debug\net8.0\AdminSys.Utilidades.GeneratedMSBuildEditorConfig.editorconfig
+C:\admin_sis\AdminSys\AdminSys.Utilidades\obj\Debug\net8.0\AdminSys.Utilidades.AssemblyInfoInputs.cache
+C:\admin_sis\AdminSys\AdminSys.Utilidades\obj\Debug\net8.0\AdminSys.Utilidades.AssemblyInfo.cs
+C:\admin_sis\AdminSys\AdminSys.Utilidades\obj\Debug\net8.0\AdminSys.Utilidades.csproj.CoreCompileInputs.cache
+C:\admin_sis\AdminSys\AdminSys.Utilidades\obj\Debug\net8.0\AdminSys.Utilidades.dll
+C:\admin_sis\AdminSys\AdminSys.Utilidades\obj\Debug\net8.0\refint\AdminSys.Utilidades.dll
+C:\admin_sis\AdminSys\AdminSys.Utilidades\obj\Debug\net8.0\AdminSys.Utilidades.pdb
+C:\admin_sis\AdminSys\AdminSys.Utilidades\obj\Debug\net8.0\ref\AdminSys.Utilidades.dll
